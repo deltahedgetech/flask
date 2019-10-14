@@ -1,6 +1,6 @@
 ### Install Instructions
 
-1. Download zip file and copy contents to a directory on your computer
+1. git clone https://github.com/deltahedgetech/flask.git
 2. Run pip install virtualenv
 3. Navigate to the products directory 
 4. run virtualenv venv --python=python3.7
